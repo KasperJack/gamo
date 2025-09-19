@@ -2,3 +2,5 @@
 apps/web/node_modules/
 
 apps/mobile/caches/
+
+apps/web/.env
